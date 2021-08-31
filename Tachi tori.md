@@ -26,14 +26,14 @@
 - **Mae otoshi**
 - **Ikkyo migi hanmi, hidari hanmi** Варианты:
   - Прямой вход, _ushiro tenkan_, захват эфеса сверху правой рукой, _tenshin_
-  - Вывод на _irimi nage_, пррямое _ikkyo_.
+  - Вывод на _irimi nage_, прямое _ikkyo_.
 - **Nikkyo migi hanmi** Прямой вход, _ushiro tenkan_, захватываем правую ладонь правой сверху глубоко, левой эфес снизу, _kaiten_, меч над головой, кладем обухом на правое плечо.
 - **Nikkyo hidari hanmi** Прямой вход, _atemi_, левая рука захватывает правую кисть, правая - меч за эфес, _tenshin, kaiten_. 
 - Sankyo migi hanmi, hidari hanmi
   - Вывод на ikkyo, захват руки под обеим руками _uke_.
   - Migi hanmi - вход c _atemi_,  _irimi_ (спиной к uke), захват меча правой ладонью, шаг назад правой, меч через вверх в вертикальной плоскости, подхват правой руки _uke_
 - **Hijikimi kokyu nage migi hanmi** Левая рука захватывает меч под правой _uke_, правая подхватывает локоть снизу, _tenshin_.
-- **Genki kokyu nage migi hanmi, hidari hanmi **
+- **Genki kokyu nage migi hanmi, hidari hanmi** - требуется уточнить
 
 
 
