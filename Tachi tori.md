@@ -10,8 +10,8 @@
 
 ## Практика
 
-> **Migi-hanmi** - правосторонняя у _uke_
-> **Hidari-hanmi** - левостороняя у _uke_
+> * **Migi-hanmi** - правосторонняя у _uke_
+> * **Hidari-hanmi** - левостороняя у _uke_
 
 - **Kote gaeshi migi hanmi, hidari hanmi** На _migi_ - правая рука захватывает левую кисть, на _hidari_ наоборот. _Gyaku kote gaeshi_ - вывод как на _ikkyo_, подхват дальней руки
 - **Ude kimi nage hidari hanmi** Варианты:
