@@ -21,6 +21,8 @@
 * Дикая - с Уизерспун
 * ~~Малена - с Беллучи~~
 * deadpool - сериал вестерн с Олифантом
+* "Хребет дьявола" - Гильермо дель Торо, дополняет "Лабиринт Фавна"
+
 ### [Сербское кино](https://fitzroymag.com/longrid/balkany-na-jekrane/?utm_source=telegram.me&utm_medium=social&utm_campaign=raz-uzh-my-sidim-v-karantine-samoizolyatsi)
 
 * Кто это там поёт? (Ko to tamo peva?) реж. Слободан Шиян, 1980 
